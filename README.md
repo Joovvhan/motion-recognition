@@ -1,2 +1,2 @@
 # motion-recognition
-OnePredict data challenge
+General motion recognition from acceleration signal
